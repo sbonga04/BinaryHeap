@@ -1,0 +1,10 @@
+1,Clean inbox,3,15
+2,Finish report,1,120
+3,Call supplier,2,30
+4,Team meeting,4,60
+5,Write documentation,5,90
+6,Fix bug #302,1,45
+7,Backup database,3,20
+8,Code review,2,40
+9,Update website,4,75
+10,Plan sprint,2,50
